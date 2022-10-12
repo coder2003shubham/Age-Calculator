@@ -16,13 +16,13 @@
     text-align: center;
     font-weight: bold;
     height: 10vh;
-    text-transform: uppercase;
+    text-transform: lowercase;
   }
   main {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: justify;
     height: 70vh;
   }
   .input_field {

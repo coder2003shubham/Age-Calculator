@@ -47,12 +47,12 @@
     font-weight: bold;
     text-align: center;
     color: white;
-    background-color: black;
+    background-color: brown;
     cursor: pointer;
     border-radius: 20px;
   }
   .buttons:hover {
-    box-shadow: 2px 5px 10px red;
+    box-shadow: 12px 4px 10px red;
     color: red;
   }
   p {

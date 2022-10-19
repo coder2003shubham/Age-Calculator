@@ -7,8 +7,8 @@ int main()
     cin>>n;
     int arr[n];
     cout<<"Elements in array : ";
-    int max = 0;
-    for(int i = 0;i<n;i++)
+    int max = 1;
+    for(int i = 1;i<n;i++)
     {
         cin>>arr[i];
         if(arr[i] > max)
